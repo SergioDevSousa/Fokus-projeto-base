@@ -13,4 +13,5 @@ curtoBt.addEventListener('click', () => {
 })
 longoBt.addEventListener('click', () => {
     html.setAttribute('data-contexto', 'descanso-longo')
+    
 })
